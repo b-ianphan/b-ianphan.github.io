@@ -10,7 +10,12 @@ module.exports = {
       'black' : '#000000',
       'white' : '#FFFFFF',
       'java-orange': '#f96900',
+      "javascript-yellow": '#f0db4f',
+      'typescript-blue': '#007acc',
+      'html-orange': '#f06529',
+      'css-blue': '#264de4',
       "c++-blue": '#044F88',
+      "csharp-purple": '#682876',
       "tan": '#D2B48C',
       "powder-pink": '#ffa6a3',
       "plum": '#673147',
@@ -18,6 +23,8 @@ module.exports = {
       "mongoDB-green": '#3FA037',
       "spring-boot-green": '#c6d7b9',
       "regularGray": '#808080',
+      "git-hub": '#333333',
+      "linked-in":'#0077b5',
     },
     extend: {
       fontSize: {

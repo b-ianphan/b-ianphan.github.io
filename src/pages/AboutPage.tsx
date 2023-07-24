@@ -5,4 +5,3 @@ export const AboutPage: React.FC = () => (
         <p> This is my about page, it is currently empty</p>
     </div>
 );
-
