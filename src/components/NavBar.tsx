@@ -6,10 +6,6 @@ import {ProjectPage} from "../pages/ProjectPage";
 import {PastWorkExperiencePage} from "../pages/PastWorkExperiencePage";
 import {ResumePage} from "../pages/ResumePage"
 
-{/* flex items-center -> makes list horizontal
-            p-4 -> padding to all sides of our items inside list
-            bg -> background color
-            space-x-4 -> adds spacing in between items of our list */}
 
 export const NavBar: React.FC = () => (
     <div className="NavBar">

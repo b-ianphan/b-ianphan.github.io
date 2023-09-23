@@ -74,7 +74,7 @@ function HomePage()  {
                 <div className = "flex items-center">
                     <h1 className= "text-black text-head1 font-bree-serif font-bold">Billy Phan, </h1>
 
-                    <a href="https://github.com/b-ianphan" target="_blank">
+                    <a href="https://github.com/b-ianphan" target="_blank" rel="noreferrer">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-10 w-10 mx-4 git-hub hover:fill-forest-green"
@@ -96,7 +96,7 @@ function HomePage()  {
                         </svg>
                     </a>
 
-                    <a href="https://www.linkedin.com/in/billy-phan-23009a284/" target="_blank">
+                    <a href="https://www.linkedin.com/in/billy-phan-23009a284/" target="_blank" rel="noreferrer">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-10 w-10 mx-4 linked-in hover:fill-forest-green"
@@ -154,7 +154,7 @@ function HomePage()  {
                 <div className="border border-b-black rounded-2xl p-5 bg-black text-white">
 
 
-                    <a href="https://ucsd.edu/" target="_blank" className = "hover:underline text-head2 flex-grow">University of California, San Diego</a>
+                    <a href="https://ucsd.edu/" target="_blank" rel="noreferrer" className = "hover:underline text-head2 flex-grow">University of California, San Diego</a>
                     <img src={UCSDGeisel} alt="Geisel" className = "w-32 h-32 rounded-full justify-items-end float-right"/>
                     <h3 className= "text-head3"> Bachelors of Science | (2021-2025)</h3>
 
@@ -170,7 +170,7 @@ function HomePage()  {
 
                     </div>
 
-                    <a href="https://catalog.ucsd.edu/courses/CSE.html" target="_blank" className=" hover:underline text-head4">Relevant Coursework: </a>
+                    <a href="https://catalog.ucsd.edu/courses/CSE.html" target="_blank" rel="noreferrer" className=" hover:underline text-head4">Relevant Coursework: </a>
 
                     <div className= "flex ">
                         <div className= "flex flex-col w-1/12">
